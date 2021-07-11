@@ -11,7 +11,7 @@
 
 ### My coding stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TiagoSanti&layout=compact&theme=vision-friendly-dark)](https://github.com/TiagoSanti/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TiagoSanti&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Repositories
 
