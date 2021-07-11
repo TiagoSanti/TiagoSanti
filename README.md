@@ -7,23 +7,23 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSanti&layout=compact&show_icons=true&theme=vision-friendly-dark)
 ](https://github.com/anuraghazra/github-readme-stats)</br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoSanti&layout=compact&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoSanti&layout=compact&show_icons=true&theme=vision-friendly-dark)](https://github.com/TiagoSanti)
 
 ### My coding stats
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TiagoSanti&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Repositories
+### Some [repositories](https://github.com/TiagoSanti?tab=repositories)
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/TiagoSanti/analise-lexica">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=analise-lexica&theme=vision-friendly-dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/TiagoSanti/hackatruck-2021">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=hackatruck-2021&theme=vision-friendly-dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/TiagoSanti/estruturas-de-dados">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=estruturas-de-dados&theme=vision-friendly-dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/TiagoSanti/uri-solutions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=uri-solutions&theme=vision-friendly-dark" />
   </a>
