@@ -15,7 +15,15 @@
 
 ### Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=hackatruck-2021&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=uri-solutions&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=analise-lexica&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=estruturas-de-dados&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=hackatruck-2021&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=analise-lexica&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=estruturas-de-dados&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=uri-solutions&theme=vision-friendly-dark" />
+  </a>
