@@ -20,10 +20,6 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TiagoSanti&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### My coding stats
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TiagoSanti&theme=dark&custom_title=Week%20coding%20stats&v=2)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Some [repositories](https://github.com/TiagoSanti?tab=repositories)
 
 <a href="https://github.com/TiagoSanti/analise-lexica">
