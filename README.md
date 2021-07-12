@@ -11,25 +11,30 @@
 
 ### My Github stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSanti&layout=compact&show_icons=true&theme=vision-friendly-dark)
-](https://github.com/anuraghazra/github-readme-stats)</br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoSanti&layout=compact&show_icons=true&theme=vision-friendly-dark)](https://github.com/TiagoSanti)
+<a href="https://github.com/TiagoSanti">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TiagoSanti&layout=compact&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSanti&layout=compact&show_icons=true&theme=dark" />
+</a>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TiagoSanti&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### My coding stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TiagoSanti&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TiagoSanti&theme=dark&custom_title=Week%20coding%20stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Some [repositories](https://github.com/TiagoSanti?tab=repositories)
 
 <a href="https://github.com/TiagoSanti/analise-lexica">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=analise-lexica&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=analise-lexica&theme=dark" />
 </a>
 <a href="https://github.com/TiagoSanti/hackatruck-2021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=hackatruck-2021&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=hackatruck-2021&theme=dark" />
 </a>
 <a href="https://github.com/TiagoSanti/estruturas-de-dados">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=estruturas-de-dados&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=estruturas-de-dados&theme=dark" />
 </a>
 <a href="https://github.com/TiagoSanti/uri-solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=uri-solutions&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=uri-solutions&theme=dark" />
   </a>
