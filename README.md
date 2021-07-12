@@ -22,7 +22,7 @@
 
 ### My coding stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TiagoSanti&theme=dark&custom_title=Week%20coding%20stats)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TiagoSanti&theme=dark&custom_title=Week%20coding%20stats&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Some [repositories](https://github.com/TiagoSanti?tab=repositories)
 
