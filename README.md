@@ -11,7 +11,7 @@
 
 ### Coding stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TiagoSanti&range=last_7_days&layout=compact&theme=dark&custom_title=Last%207%20Days%20Most%20Used%20Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TiagoSanti&range=last_7_days&layout=compact&theme=dark&custom_title=Last%207%20Days%20Most%20Used%20Languages)](https://wakatime.com/@TiagoSanti)
 
 ### My Github stats
 
