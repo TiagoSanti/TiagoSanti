@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TiagoSanti&layout=compact&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSanti&layout=compact&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSanti&layout=compact&show_icons=true&theme=dark&exclude_repo=hackatruck-2021" />
 </a>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TiagoSanti&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
