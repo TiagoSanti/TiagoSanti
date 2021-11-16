@@ -28,11 +28,11 @@
 <a href="https://github.com/TiagoSanti/analise-lexica">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=analise-lexica&theme=dark" />
 </a>
-<a href="https://github.com/TiagoSanti/hackatruck-2021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=hackatruck-2021&theme=dark" />
+<a href="https://github.com/TiagoSanti/trab-prog2-lista-encadeada">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=trab-prog2-lista-encadeada&theme=dark" />
 </a>
-<a href="https://github.com/TiagoSanti/estruturas-de-dados">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=estruturas-de-dados&theme=dark" />
+<a href="https://github.com/TiagoSanti/controle-de-emprestimos-progmov-trab1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=controle-de-emprestimos-progmov-trab1&theme=dark" />
 </a>
 <a href="https://github.com/TiagoSanti/uri-solutions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=uri-solutions&theme=dark" />
