@@ -23,15 +23,15 @@
 
 ### Some [repositories](https://github.com/TiagoSanti?tab=repositories)
 
+<a href="https://github.com/TiagoSanti/classificador_de_carros_cnn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=classificador_de_carros_cnn&theme=dark" />
+</a>
 <a href="https://github.com/TiagoSanti/analise-lexica">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=analise-lexica&theme=dark" />
-</a>
-<a href="https://github.com/TiagoSanti/trab-prog2-lista-encadeada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=trab-prog2-lista-encadeada&theme=dark" />
 </a>
 <a href="https://github.com/TiagoSanti/controle-de-emprestimos-progmov-trab1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=controle-de-emprestimos-progmov-trab1&theme=dark" />
 </a>
-<a href="https://github.com/TiagoSanti/uri-solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=uri-solutions&theme=dark" />
-  </a>
+<a href="https://github.com/TiagoSanti/trab-prog2-lista-encadeada">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=trab-prog2-lista-encadeada&theme=dark" />
+</a>
