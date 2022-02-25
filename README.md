@@ -23,6 +23,9 @@
 
 ### Some [repositories](https://github.com/TiagoSanti?tab=repositories)
 
+<a href="https://github.com/TiagoSanti/FaceRecognition">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=FaceRecognition&theme=dark" />
+</a>
 <a href="https://github.com/TiagoSanti/classificador_de_carros_cnn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=classificador_de_carros_cnn&theme=dark" />
 </a>
@@ -31,7 +34,4 @@
 </a>
 <a href="https://github.com/TiagoSanti/app-woods">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=app-woods&theme=dark" />
-</a>
-<a href="https://github.com/TiagoSanti/controle-de-emprestimos-progmov-trab1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=controle-de-emprestimos-progmov-trab1&theme=dark" />
 </a>
