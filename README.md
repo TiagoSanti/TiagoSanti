@@ -23,8 +23,8 @@
 
 ### Some [repositories](https://github.com/TiagoSanti?tab=repositories)
 
-<a href="https://github.com/TiagoSanti/FaceRecognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=FaceRecognition&theme=dark" />
+<a href="https://github.com/TiagoSanti/ultra-face-recognition">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=ultra-face-recognition&theme=dark" />
 </a>
 <a href="https://github.com/TiagoSanti/classificador_de_carros_cnn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=classificador_de_carros_cnn&theme=dark" />
