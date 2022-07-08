@@ -20,18 +20,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSanti&layout=compact&show_icons=true&theme=dark&exclude_repo=hackatruck-2021&hide=jupyter%20notebook" />
 </a>
-
-### Some [repositories](https://github.com/TiagoSanti?tab=repositories)
-
-<a href="https://github.com/TiagoSanti/ultra-face-recognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=ultra-face-recognition&theme=dark" />
-</a>
-<a href="https://github.com/TiagoSanti/classificador_de_carros_cnn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=classificador_de_carros_cnn&theme=dark" />
-</a>
-<a href="https://github.com/TiagoSanti/analise-lexica">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=analise-lexica&theme=dark" />
-</a>
-<a href="https://github.com/TiagoSanti/app-woods">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoSanti&repo=app-woods&theme=dark" />
-</a>
