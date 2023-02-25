@@ -7,12 +7,3 @@
 ### Social
 
 [![linkedin](https://user-images.githubusercontent.com/53698082/125190824-22ba0280-e20d-11eb-99f8-620ad8fd0aee.png) /tiago-santi](https://www.linkedin.com/in/tiago-santi/)
-
-### My Github stats
-
-<a href="https://github.com/TiagoSanti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TiagoSanti&layout=compact&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSanti&layout=compact&show_icons=true&theme=dark&exclude_repo=hackatruck-2021" />
-</a>
